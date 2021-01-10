@@ -5,7 +5,7 @@
 
 ----
 
-#### I would love to hear your thoughts on my projects or collaborate on anything that could use some extra attention 
+#### I would love to hear your thoughts on my projects or collaborate on anything of yours that could use some extra attention 
 
 ##### You can reach me at either of these addresses:
 <a href='mailto:browe495@gmail.com?subject=[Github]' >
