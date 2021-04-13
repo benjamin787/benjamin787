@@ -15,7 +15,7 @@
     <img align='center' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
 </a>
 
-##### Currently working on my React and Node skills, and next I will brave the big, bad world of Python
+##### Currently building an Ember app to track trading cards while I dive into the big, bad world of Python
 ##### Open to any and all suggestions!
 
 
